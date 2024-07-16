@@ -14,7 +14,7 @@ This project is a web application that generates Multiple Choice Questions (MCQs
 
 - **FastAPI:** A modern, fast (high-performance) web framework for building APIs with Python 3.7+.
 - **Streamlit:** An open-source app framework for Machine Learning and Data Science projects.
-- **Pydantic:** Data validation and settings management using Python type annotations.
+- **NLTK:** Summarize text, remove Stop words, sentences and words tokenize, filter the keyphrase from text.
 
 ## Installation
 
